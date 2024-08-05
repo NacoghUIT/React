@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sp1 from '../asset/images/sp1.jpg';
 import sp2 from '../asset/images/sp2.jpg';
 import sp3 from '../asset/images/sp3.jpg';
@@ -14,6 +15,24 @@ import sp13 from '../asset/images/sp13.jpg';
 import sp14 from '../asset/images/sp14.jpg';
 import sp15 from '../asset/images/sp15.jpg';
 import sp16 from '../asset/images/sp16.jpg';
+=======
+const sp1 = process.env.PUBLIC_URL + '/images/sp1.jpg';
+const sp2 = process.env.PUBLIC_URL + '/images/sp2.jpg';
+const sp3 = process.env.PUBLIC_URL + '/images/sp3.jpg';
+const sp4 = process.env.PUBLIC_URL + '/images/sp4.jpg';
+const sp5 = process.env.PUBLIC_URL + '/images/sp5.jpg';
+const sp6 = process.env.PUBLIC_URL + '/images/sp6.jpg';
+const sp7 = process.env.PUBLIC_URL + '/images/sp7.jpg';
+const sp8 = process.env.PUBLIC_URL + '/images/sp8.jpg';
+const sp9 = process.env.PUBLIC_URL + '/images/sp9.jpg';
+const sp10 = process.env.PUBLIC_URL + '/images/sp10.jpg';
+const sp11 = process.env.PUBLIC_URL + '/images/sp11.jpg';
+const sp12 = process.env.PUBLIC_URL + '/images/sp12.jpg';
+const sp13 = process.env.PUBLIC_URL + '/images/sp13.jpg';
+const sp14 = process.env.PUBLIC_URL + '/images/sp14.jpg';
+const sp15 = process.env.PUBLIC_URL + '/images/sp15.jpg';
+const sp16 = process.env.PUBLIC_URL + '/images/sp16.jpg';
+>>>>>>> 2c72148 (React)
 
 export const products = [
     {

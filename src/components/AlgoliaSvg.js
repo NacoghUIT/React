@@ -11,4 +11,8 @@ export function AlgoliaSvg() {
       </svg>
     </a>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2c72148 (React)

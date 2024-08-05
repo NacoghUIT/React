@@ -11,8 +11,13 @@ const ProductItem = ({ image, altText, category, name, description, price, ratin
           <p className="text-customBlack opacity-70 uppercase mb-2 text-xs font-semibold leading-none">{category}</p>
           <h1 className="box-border text-sm flex justify-start items-start font-bold">{name}</h1>
           <p className="mt-[2px] flex justify-start items-start">{description}</p>
+<<<<<<< HEAD
           <footer className='mt-[10px]'>
             <p className='flex'>
+=======
+          <footer className="mt-[10px]">
+            <p className="flex">
+>>>>>>> 2c72148 (React)
                 <span className="text-customYellow text-[11px] font-semibold">$</span>
                 <strong>{price}</strong>
                 <span className="border border-[#e2a400]/50 rounded-sm ml-1 px-1 text-customYellow text-[11px] font-semibold flex items-center justify-center">
